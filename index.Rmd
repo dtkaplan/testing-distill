@@ -1,0 +1,7 @@
+---
+title: "Testing Distill Blog changed"
+site: distill::distill_website
+---
+
+This could be the home page
+

@@ -1,0 +1,32 @@
+[
+  {
+    "path": "posts/another/",
+    "title": "Another blog",
+    "description": "This will be the content of  the another post.",
+    "author": [
+      {
+        "name": "Danny Kaplan",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2020-06-26",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-06-22T11:06:03-05:00"
+  },
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to Testing Distill Blog",
+    "description": "Welcome to our new blog, Testing Distill Blog. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2020-06-22",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-06-22T10:58:06-05:00"
+  }
+]

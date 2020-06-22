@@ -1,0 +1,14 @@
+name: "testing_distill_blog"
+title: "Testing Distill Blog"
+description: |
+  Testing Distill Blog
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Blog"
+      href: blog-listing.html
+output: distill::distill_article
